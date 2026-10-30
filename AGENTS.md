@@ -3,7 +3,7 @@
 ## Workflow skills
 
 This repository uses the shared workflow skills from
-[ViviDynamics/skills](https://github.com/ViviDynamics/skills) at tag **2026.10.4**.
+[ViviDynamics/skills](https://github.com/ViviDynamics/skills) at tag **2026.09.17**, with the Copilot review policy (copilot-review, ship-issue, vivi-conventions) from **2026.10.4**.
 The installed skills are: vivi-conventions, ci-safety, watch-ci, watch-ci-main,
 merge-pr, rebase-main, copilot-review, and ship-issue. They are copied into both
 `.agents/skills/` and `.claude/skills/` (`.opencode/skill` is a symlink to the former)
